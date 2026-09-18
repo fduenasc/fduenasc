@@ -1,42 +1,35 @@
-# 👋 Hi, welcome to my GitHub profile! 😄
+# Francisco Dueñas
 
-I'm **Francisco Dueñas**, a **Cloud-Native & Backend Developer**, specialized in building **scalable microservices** with **Java, Quarkus, Spring**, and **Kubernetes**.
+**Cloud-Native & Backend Developer** — Consultant focused on scalable microservices with Java, Quarkus, Spring, and Kubernetes.
 
----
 
-## 🚀 About Me
-- 🏅 **Red Hat Certified Cloud-Native Developer (EX378)**
-- 🎓 Systems & Computer Engineer from the **National University of Colombia**
-- 💻 **4+ years of experience** in Backend and Cloud-Native development
-- 🧩 Strong experience with **Java (8–21)** and the **Spring ecosystem**
-- ⚡ Specialized in **microservices, reactive programming, and event-driven architectures**
-- ☁️ Hands-on experience with **AWS, Azure, and Kubernetes platforms**
+Systems & Computer Engineer (National University of Colombia). 4+ years building scalable microservices, reactive APIs, and event-driven systems on AWS, Azure, and Kubernetes.
+
+Red Hat & AWS certified. [View credentials on Credly](https://www.credly.com/users/francisco-duenas.49d3982c)
 
 ---
 
-## 🏗️ Core Expertise
-- **Cloud-Native Development:** Microservices, REST & Reactive APIs, Kubernetes
-- **Backend Engineering:** Java, Quarkus, Spring Boot, Spring WebFlux
-- **Messaging & Integration:** RabbitMQ, asynchronous and event-driven systems
-- **Observability:** Grafana, Dynatrace
-- **DevOps & Automation:** Docker, Kubernetes, CI/CD pipelines
+## Expertise
+
+| Area | Technologies |
+|---|---|
+| Cloud-native | Microservices, REST/Reactive APIs, Kubernetes, OpenShift, Podman |
+| Backend | Java (8–21), Quarkus, Spring Boot, Spring WebFlux |
+| Integration | RabbitMQ, Red Hat Fuse, Apache Camel, event-driven architectures |
+| Cloud | AWS (EC2, S3, SNS, SQS, CloudFormation), Azure |
+| DevOps | Docker, CI/CD, observability (Grafana, Dynatrace) |
+| Testing | JUnit, pytest, JMeter |
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Java (8–21), Python
-- **Frameworks:** Quarkus, Spring Boot, Spring WebFlux, Django
-- **Cloud:** AWS (EC2, S3, CloudFormation, SNS, SQS), Azure
-- **Containers & Orchestration:** Docker, Kubernetes
-- **Monitoring:** Grafana, Dynatrace
-- **Testing:** JUnit, pytest, JMeter
+## Featured Project
+
+**[CrediYa](https://github.com/LeronArenwino/crediya)** — Platform to digitize and optimize personal loan application management. Automates initial evaluation and streamlines administrative handling of pre-approved cases.
 
 ---
 
-## 📫 Contact
-- 🌐 [LinkedIn](https://www.linkedin.com/in/fduenasc/)
-- 💻 [Portfolio](https://fduenasc.dev/)
+## Contact
 
----
-
-✨ *Always learning, always building cloud-native solutions.* 🚀
+- Portfolio: [fduenasc.dev](https://fduenasc.dev/)
+- LinkedIn: [linkedin.com/in/fduenasc](https://www.linkedin.com/in/fduenasc/)
+- Credly: [credly.com/users/francisco-duenas](https://www.credly.com/users/francisco-duenas.49d3982c)
