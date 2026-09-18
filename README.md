@@ -1,5 +1,3 @@
-# Francisco Dueñas
-
 **Cloud-Native & Backend Developer** — Consultant focused on scalable microservices with Java, Quarkus, Spring, and Kubernetes.
 
 
